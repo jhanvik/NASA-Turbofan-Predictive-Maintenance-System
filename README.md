@@ -8,6 +8,7 @@ This project focuses on developing a high-end predictive maintenance model for N
 We utilized the NASA C-MAPSS dataset, which provides detailed sensor measurements from turbofan engines under various operating conditions. Specifically, we focused on the FD002 subset of the dataset. The dataset includes:
 - Training and testing data files with multiple sensors and operational settings.
 - Ground truth RUL values for evaluation.
+- **Dataset Link:** https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 
 ## **Data Loading and Preprocessing**
 The data loading phase involved reading the training, testing, and RUL data files. We then performed extensive preprocessing to ensure the data's quality and relevance:
