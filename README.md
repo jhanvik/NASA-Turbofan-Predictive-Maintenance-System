@@ -2,7 +2,7 @@
 **Predictive Maintenance Model for Turbofan Engines using LSTM**
 
 ## **Overview**
-This project focuses on developing a high-end predictive maintenance model for NASA's turbofan engines. The primary objective is to accurately predict the Remaining Useful Life (RUL) of these engines, optimizing maintenance schedules and reducing the likelihood of unexpected failures. The project leverages advanced machine learning techniques, particularly Long Short-Term Memory (LSTM) networks, to analyze time-series data.
+This project focuses on developing a predictive maintenance model for NASA's turbofan engines. The primary objective is to accurately predict the Remaining Useful Life (RUL) of these engines, optimizing maintenance schedules and reducing the likelihood of unexpected failures. The project leverages advanced machine learning techniques, particularly Long Short-Term Memory (LSTM) networks, to analyze time-series data.
 
 ## **Dataset**
 We utilized the NASA C-MAPSS dataset, which provides detailed sensor measurements from turbofan engines under various operating conditions. Specifically, we focused on the FD002 subset of the dataset. The dataset includes:
